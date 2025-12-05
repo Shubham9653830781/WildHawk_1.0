@@ -177,11 +177,5 @@ Use, modify, and distribute with proper attribution.
 
 ---
 
-## 📬 Contact
-
-📧 *[[shaneshraje@gmail.com](mailto:shaneshraje@gmail.com)]*
-🌐 GitHub: [@ShaneshrajeK](https://github.com/ShaneshrajeK)
-
----
 
 > 🦅 *“Guarding the wild with intelligence — WildHawk 1.0.”*
