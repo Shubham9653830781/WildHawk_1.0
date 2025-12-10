@@ -164,7 +164,7 @@ WildHawk_1.0/
 
 ## 👩‍💻 Developers
 
-**Project Lead:** Shaneshraje Kadu\
+**Project Lead:** Shubham Meena\
 **Institute:** IIT (BHU), Varanasi\
 **Club:** Aero-Modelling Club, IIT (BHU)
 
